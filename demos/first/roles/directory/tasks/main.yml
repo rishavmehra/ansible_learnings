@@ -1,0 +1,4 @@
+- name: Creates Directory 
+  file: 
+    path: ./first_dir
+    state: directory

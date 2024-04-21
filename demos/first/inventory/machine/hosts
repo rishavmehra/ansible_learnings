@@ -1,0 +1,2 @@
+[aws-machine]
+65.2.71.45 ansible_ssh_private_key_file=/home/rm/.ssh/ansible_demo
